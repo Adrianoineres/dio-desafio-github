@@ -1,5 +1,5 @@
 # 📚Desafio de Projeto
-sobre Git/GitHub da DIO
+
 Repositório criado para o Desafio de projeto, incluir
 todas as atividades da [Digital Innovaion - DIO](https://web.dio.me/home),
 executados pelo Bootcamp
