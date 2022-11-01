@@ -67,5 +67,5 @@ Pronto!🤝 Agora você pode usar todas as funcionalidades do git sem precisar s
 O editor de arquivos Markdown(.md), muito útil para o Github:
 
 [Typora - clique aqui para baixar o Typora;](https://typora.io/)
-Lista completa de emoticons💀😃💥;(https://gist.github.com/rxaviers/7360908)
+[Lista completa de emoticons]()💀😃💥;
 
